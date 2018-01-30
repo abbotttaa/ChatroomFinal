@@ -1,0 +1,12 @@
+D:\Everything Code\Code Fam\cSharp-Chatroom-master\Server\bin\Debug\Server.exe.config
+D:\Everything Code\Code Fam\cSharp-Chatroom-master\Server\bin\Debug\Server.exe
+D:\Everything Code\Code Fam\cSharp-Chatroom-master\Server\bin\Debug\Server.pdb
+D:\Everything Code\Code Fam\cSharp-Chatroom-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Everything Code\Code Fam\cSharp-Chatroom-master\Server\obj\Debug\Server.exe
+D:\Everything Code\Code Fam\cSharp-Chatroom-master\Server\obj\Debug\Server.pdb
+D:\Everything Code\Code Fam\ChatroomFinal\Server\bin\Debug\Server.exe.config
+D:\Everything Code\Code Fam\ChatroomFinal\Server\obj\Debug\Server.exe
+D:\Everything Code\Code Fam\ChatroomFinal\Server\obj\Debug\Server.pdb
+D:\Everything Code\Code Fam\ChatroomFinal\Server\bin\Debug\Server.exe
+D:\Everything Code\Code Fam\ChatroomFinal\Server\bin\Debug\Server.pdb
+D:\Everything Code\Code Fam\ChatroomFinal\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
