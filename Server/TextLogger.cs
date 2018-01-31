@@ -25,7 +25,7 @@ namespace Server
 
         public void LogMessage(string message)
         {
-            lock (Lock)
+            lock(Lock)
             {
                 using (StreamWriter write = File.AppendText(path))
                 {
